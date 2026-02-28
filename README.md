@@ -1,6 +1,6 @@
 ## Hi, I'm Prasad 👋
 
-Frontend Developer | React Enthusiast | CS Undergraduate
+Full Stack Developer | React Enthusiast | CS Undergraduate
 
 I'm a Computer Science student actively building **React-based frontend projects** and practicing **Data Structures & Algorithms** consistently.  
 I enjoy creating clean, user-focused interfaces and working with APIs to build real-world applications.
@@ -8,6 +8,7 @@ I enjoy creating clean, user-focused interfaces and working with APIs to build r
 ### 🛠️ Tech Stack
 - JavaScript (ES6+)
 - React.js
+- Node.js
 - HTML, CSS
 - Java DSA
 - Git & GitHub
